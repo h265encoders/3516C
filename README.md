@@ -6,7 +6,7 @@ ENC1 is an open source single channel encoder product, which supports 1080P high
 
 ## The source code is introduced
 ---
-EEncoder project is the main program of the Encoder, which controls coding, streaming and other functions through RPC communication with web pages.
+Encoder project is the main program of the Encoder, which controls coding, streaming and other functions through RPC communication with web pages.
 
 Wifi Ctrl project is used to control Wifi module (optional)
 
