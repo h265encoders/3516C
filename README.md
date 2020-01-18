@@ -1,16 +1,16 @@
-## 方案介绍
+## introduction of the scheme
 ---
-ENC1是一个开源的单路编码器产品，支持1080P高低码流编码，支持H265，支持rtsp、rtmp、onvif等，可以对接直播平台、安防系统。
+ENC1 is an open source single channel encoder product, which supports 1080P high and low code stream coding, H265, RTSP, RTMP, onvif, etc., and can dock with the live broadcasting platform and security system.
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0604/203350_02d42046_1759637.png "屏幕截图.png")
 
-## 源码介绍
+## The source code is introduced
 ---
-Encoder工程是编码器的主程序，通过和网页进行rpc通信来控制编码、串流等功能。
+EEncoder project is the main program of the Encoder, which controls coding, streaming and other functions through RPC communication with web pages.
 
-WifiCtrl工程用于控制wifi模块(选配)
+Wifi Ctrl project is used to control Wifi module (optional)
 
-Gpio工程用于响应Reset按键的事件，实现长按5秒后恢复出厂配置
+Gpio project is used to respond to the event of the Reset button to restore the factory configuration after a long press of 5 seconds.
 
 
-### [ :fa-cart-plus: 购买链接：https://item.taobao.com/item.htm?id=598753955750](https://item.taobao.com/item.htm?id=598753955750)
+###
